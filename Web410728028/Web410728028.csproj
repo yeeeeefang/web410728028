@@ -131,10 +131,6 @@
     <Compile Include="ViewModels\SignUpData.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\db410728028.mdf" />
-    <Content Include="App_Data\db410728028_log.ldf">
-      <DependentUpon>db410728028.mdf</DependentUpon>
-    </Content>
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
